@@ -32,16 +32,6 @@ The system is designed to identify and track vehicles in challenging urban traff
 
 ---
 
-data/
-├── images/
-│   ├── train/
-│   ├── val/
-│   └── test/
-├── labels/
-│   ├── train/
-│   ├── val/
-│   └── test/
-└── data.yaml
 
 
 ##  Installation
@@ -50,7 +40,7 @@ Clone the repository and install the required dependencies:
 
 ```bash
 # Clone this repo
-git clone https://github.com/your-username/vehicle-object-detection.git
+git clone https://github.com/Jadhavsakshi/vehicle-object-detection.git
 cd vehicle-object-detection
 
 # Install dependencies
