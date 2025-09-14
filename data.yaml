@@ -1,0 +1,7 @@
+train: /content/images/converted_jpgs/train/images
+val: /content/images/converted_jpgs/val/images
+
+nc: 15
+names: ['Hatchback', 'Sedan', 'SUV', 'MUV', 'Bus', 'Truck', 'Three-wheeler',
+        'Two-wheeler', 'LCV', 'Mini-bus', 'Mini-truck', 'tempo-traveller',
+        'bicycle', 'Van', 'Others']
