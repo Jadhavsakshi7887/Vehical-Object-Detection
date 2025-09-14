@@ -17,18 +17,9 @@ The system is designed to identify and track vehicles in challenging urban traff
 - **Source**: 2K+ real-time traffic images from Bangalore.  
 - **Annotations**: YOLO format (`.txt` bounding boxes).  
 - **Classes**:  
-  1. Two-wheeler  
-  2. Bus  
-  3. Truck  
-  4. Auto  
-  5. Bicycle  
-  6. MUV (Multi Utility Vehicle)  
-  7. SUV (Sports Utility Vehicle)  
-  8. Van  
-  9. Mini-bus  
-  10. Tempo  
-  11. Hatch-back  
-  12. Others  
+        'Hatchback', 'Sedan', 'SUV', 'MUV', 'Bus', 'Truck', 'Three-wheeler',
+        'Two-wheeler', 'LCV', 'Mini-bus', 'Mini-truck', 'tempo-traveller',
+        'bicycle', 'Van', 'Others'
 
 ---
 
