@@ -3,8 +3,11 @@
 This project demonstrates **real-time vehicle object detection** using the **YOLOv8 model**, trained on Images captured from **Bangalore traffic conditions**.  
 The system is designed to identify and track vehicles in challenging urban traffic environments.
 
-# Trained on Google Colab
-This model was trained using Google Colab, leveraging its free GPU/TPU resources for faster computation
+# Additional Project Insights
+
+This project was trained on Google Colab GPU, using a relatively small dataset of around 1,000 images. My main goal was to deeply understand how object detection models work from handling real-world traffic image data to training, evaluating, and improving models. I also experimented with different detection frameworks like Detectron2, but due to environment and compatibility issues, I ultimately used the YOLO family of models for stable training.
+
+I spent around 1.5 months on this project, exploring different training strategies. I tested the model with and without data augmentation, and observed a clear improvement in accuracy when augmentation was applied, especially for noisy and low-light traffic images. This helped me learn how preprocessing and augmentation directly influence model robustness.
 
 ---
 
