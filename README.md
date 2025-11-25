@@ -18,7 +18,7 @@ YOLOv8 • YOLOv9 • Ultralytics • Detectron2 (attempted) • Python • Goog
 - Trained on a **custom dataset** of Bangalore traffic.  
 - Detects cars, bikes, buses, trucks, auto-rickshaws, and more.  
 - Built with [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics).  
-- Works with **images, videos, and live webcam feeds**.  
+- Works with **images**.  
 
 ---
 
