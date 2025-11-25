@@ -12,7 +12,7 @@ I spent around 1.5 months on this project, exploring different training strategi
 ---
 # Tech Stack
 
-YOLOv8 • YOLOv9 • PyTorch • Ultralytics • OpenCV • Detectron2 (attempted) • Python • Google Colab GPU • Data Augmentation • Image Preprocessing 
+YOLOv8 • YOLOv9 • Ultralytics • Detectron2 (attempted) • Python • Google Colab GPU • Data Augmentation • Image Preprocessing 
 
 ## Features
 - Trained on a **custom dataset** of Bangalore traffic.  
