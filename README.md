@@ -10,6 +10,9 @@ This project was trained on Google Colab GPU, using a relatively small dataset o
 I spent around 1.5 months on this project, exploring different training strategies. I tested the model with and without data augmentation, and observed a clear improvement in accuracy when augmentation was applied, especially for noisy and low-light traffic images. This helped me learn how preprocessing and augmentation directly influence model robustness.
 
 ---
+# Tech Stack
+
+YOLOv8 • YOLOv9 • PyTorch • Ultralytics • OpenCV • Detectron2 (attempted) • Python • Google Colab GPU • Data Augmentation • Image Preprocessing 
 
 ## Features
 - Trained on a **custom dataset** of Bangalore traffic.  
